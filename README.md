@@ -28,11 +28,16 @@
 
 ### 🧠 **Evidence:**
 
-<img width="1448" height="704" alt="image" src="https://github.com/user-attachments/assets/2a9a816c-6f65-4efd-b3e8-69c09dc62e4f" />  
+1.<img width="1448" height="704" alt="image" src="https://github.com/user-attachments/assets/2a9a816c-6f65-4efd-b3e8-69c09dc62e4f" />  
 
 <br><br>🌿<br><br>  
 
-<img width="1254" height="426" alt="image" src="https://github.com/user-attachments/assets/c21338c6-d870-48bf-9a39-f1b290ac6706" />  
+2.Email <img width="1254" height="426" alt="image" src="https://github.com/user-attachments/assets/c21338c6-d870-48bf-9a39-f1b290ac6706" />  
+
+<br><br>🌿<br><br>  
+
+3.Presentation<img width="1553" height="710" alt="image" src="https://github.com/user-attachments/assets/2e8f301e-6992-4791-9aff-d717af1b23ca" />
+
 
 ### 💬 **Reflection (STAR):**
 
@@ -48,7 +53,11 @@
 
 ### 🧠 **Evidence:**
 
-<img width="1448" height="716" alt="image" src="https://github.com/user-attachments/assets/051e63ea-2af9-45a0-aad3-50c260a29bc0" />
+1.<img width="1448" height="716" alt="image" src="https://github.com/user-attachments/assets/051e63ea-2af9-45a0-aad3-50c260a29bc0" />
+
+<br><br>🌿<br><br>  
+
+2.Interview Practice Screenshot
 
 ### 💬 **Reflection (STAR):**
 **Situation:** In preparation for our WIL applications, we had to practice interview skills to prepare for possible interviews with companies. The purpose was to help us present ourselves confidently and answer questions effectively
@@ -62,6 +71,8 @@
 ## 🎬 **3. MOCK INTERVIEW**
 
 ### 🧠 **Evidence:**
+
+1.Script of the interview
 
 
 
