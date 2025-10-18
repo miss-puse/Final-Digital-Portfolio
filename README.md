@@ -126,7 +126,10 @@ Here are my professional networking activities:
 <img width="1567" height="683" alt="image" src="https://github.com/user-attachments/assets/e33f0869-ac19-4d47-8039-6dc02c8d6961" />
 <br><br>🌿<br><br>
 
-3.Participation networking event
+3.Participation on networking event
+
+![WhatsApp Image 2025-09-22 at 11 06 57](https://github.com/user-attachments/assets/c818a806-7e3d-46c2-9466-66f0852e8c23)
+
 
 
 ### 💬 **Reflection (STAR):**
