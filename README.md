@@ -34,7 +34,7 @@
 
 2.Email <img width="1254" height="426" alt="image" src="https://github.com/user-attachments/assets/c21338c6-d870-48bf-9a39-f1b290ac6706" />  
 
-<br><br>🌿<br><br>  
+<br><br>🌿<br><br> 
 
 3.Presentation<img width="1553" height="710" alt="image" src="https://github.com/user-attachments/assets/2e8f301e-6992-4791-9aff-d717af1b23ca" />
 
@@ -55,9 +55,24 @@
 
 1.<img width="1448" height="716" alt="image" src="https://github.com/user-attachments/assets/051e63ea-2af9-45a0-aad3-50c260a29bc0" />
 
-<br><br>🌿<br><br>  
+<br><br>🌿<br><br>
 
-2.Interview Practice Screenshot
+2.Resume
+
+<img width="813" height="416" alt="image" src="https://github.com/user-attachments/assets/ff8082b2-5950-47bf-b584-bcf12cfc8d30" />
+
+<br><br>🌿<br><br>
+
+3.Interview Practice Screenshot
+
+
+![WhatsApp Image 2025-10-18 at 13 45 17](https://github.com/user-attachments/assets/f4342a30-c255-4de4-ba7c-d62c4fc332b5)
+
+<br><br>🌿<br><br>
+4.Interview Feedback:
+
+<img width="1516" height="256" alt="image" src="https://github.com/user-attachments/assets/5611ff57-b3ca-4418-a787-66b0e397eff6" />
+
 
 ### 💬 **Reflection (STAR):**
 **Situation:** In preparation for our WIL applications, we had to practice interview skills to prepare for possible interviews with companies. The purpose was to help us present ourselves confidently and answer questions effectively
@@ -73,6 +88,11 @@
 ### 🧠 **Evidence:**
 
 1.Script of the interview
+
+🎥 **Watch my Mock Interview Video**
+
+[Click here to view the video](https://github.com/miss-puse/Final-Digital-Portfolio/blob/main/Video%20(1).mp4)
+
 
 
 
@@ -93,6 +113,22 @@ I practiced answering them using the STAR method . I also prepared by wearing pr
 
 Here are my professional networking activities:  
 
+1.<img width="1461" height="733" alt="image" src="https://github.com/user-attachments/assets/75cd45aa-b094-4d23-a0cf-0b915a46638f" />
+
+<br><br>🌿<br><br>
+2.LinkedIn profile
+
+![WhatsApp Image 2025-05-22 at 17 08 18_a64191bc](https://github.com/user-attachments/assets/95ae27cc-a57c-4279-aa29-a8f6c326f800)
+
+<br><br>🌿<br><br>
+3.GitHub profile
+
+<img width="1567" height="683" alt="image" src="https://github.com/user-attachments/assets/e33f0869-ac19-4d47-8039-6dc02c8d6961" />
+<br><br>🌿<br><br>
+
+3.Participation networking event
+
+
 ### 💬 **Reflection (STAR):**
 
 **Situation:** We were encouraged to build our professional presence online and connect with people in our field. I decided to focus on improving my LinkedIn and GitHub profiles to network effectively with ICT professionals.
@@ -107,4 +143,49 @@ Here are my professional networking activities:
 
 ### 🧠 **Evidence:**
 
+1.Report on proper workplace behavior and communication.
 
+<img width="1462" height="724" alt="image" src="https://github.com/user-attachments/assets/5c13722d-4ad3-4a79-8512-e00def2f496f" />
+
+
+2.group discussion on diversity and respect at work.
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/edb0f71b-181f-4505-8062-6058102602c3" />
+
+
+
+### 💬 **Reflection (STAR):**
+
+**Situation:** During our Work Readiness module, we focused on understanding workplace etiquette,how employees are expected to behave in a professional environment and why it matters.
+
+**Task:** I had to design a poster that explained the main etiquette principles that I would apply in my future workplace or during my Work Integrated Learning (WIL) placement.  
+
+**Action:**  I researched important workplace behaviors such as punctuality, teamwork, communication, and respect. I designed a poster titled “Hope’s Workplace Etiquette” to highlight these values in a simple and creative way. I also took part in class discussions where we shared real examples of how good and bad etiquette affect the work environment.
+
+**Result:** This activity helped me understand that professionalism is not just about appearance ,it’s about attitude, reliability, and respect for others. I learned that being punctual, communicating clearly, and showing respect build trust and create a positive team atmosphere. I plan to apply these principles during my WIL and in every workplace I become part of.
+
+### 📌 About This Portfolio
+
+Participating in my Work Integrated Learning (WIL) experience has allowed me to put everything I learned during the Work Readiness module into real practice. The communication, interview, and workplace etiquette skills that I developed while creating this portfolio have helped me adjust smoothly to a professional environment.
+Through this experience, I’ve learned the importance of teamwork, reliability, and self-discipline. I’ve also had the chance to apply my technical skills in real workplace situations, which has strengthened my confidence and improved my problem-solving abilities.
+This digital portfolio reflects how far I’ve come ,from preparing for WIL to now experiencing what it’s truly like to work in the ICT field. I’m proud of the growth I’ve achieved and motivated to keep learning, improving, and contributing meaningfully wherever I work. 🌿💻
+## 🤝 Let's Connect
+
+Thanks for visiting my portfolio!
+
+If you're a fellow ICT enthusiast, mentor, or someone who believes in the power of tech to create change — I'd love to connect.
+
+### 📬 Reach Out
+- **Email:** [sejahope63@gmail.com](mailto:sejahope63@gmail.com)
+- **LinkedIn:** [View my profile](www.linkedin.com/in/hope-kgomokaboya-857ab22b6)
+- **GitHub:** [Explore my projects](https://github.com/miss-puse)
+
+---
+
+### 📊 Portfolio Snapshot
+- 👁️ **Views:** ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blue&style=flat)
+- 🗓️ **Last Updated:** October 2025
+- 🚀 **Status:** Open to opportunities & collaborations
+
+
+### 🌐 Let's Build the Future of Tech — Together.
